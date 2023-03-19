@@ -1,0 +1,3 @@
+﻿  Booster.cpp
+C:\Users\PChris\source\repos\PriorityBooster\Booster\Booster.cpp(33,14): warning C4805: '==': unsafe mix of type 'bool' and type 'BOOL' in operation
+  Booster.vcxproj -> C:\Users\PChris\source\repos\PriorityBooster\x64\Debug\Booster.exe
